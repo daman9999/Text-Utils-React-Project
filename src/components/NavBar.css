@@ -1,0 +1,41 @@
+.pallete {
+    margin: 0 1em;
+}
+
+.circle {
+    display: inline-block;
+    margin-right: .5em;
+    outline: 1em;
+    outline-color: blueviolet;
+    padding: 5px;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 17px;
+    background-color: red;
+    float: right;
+}
+
+.circle:hover {
+    border: 2px solid rgb(245, 154, 154);
+    cursor: pointer;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
